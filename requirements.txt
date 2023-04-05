@@ -7,6 +7,7 @@ Flask-SQLAlchemy==3.0.2
 psycopg2-binary==2.9.5
 python-dotenv==0.21.1
 Flask-Talisman
+Flask-Cors
 
 # Runtime dependencies
 gunicorn==20.1.0
